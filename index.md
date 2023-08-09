@@ -1,7 +1,6 @@
 ---
 title: Welcome to my blog
+author: me
 ---
-
-# sec 1
 
 test page
